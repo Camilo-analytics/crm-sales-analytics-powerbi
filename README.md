@@ -1,7 +1,7 @@
 # CRM Sales Analytics Dashboard
 ### Power BI | DAX | Power Query | Data Cleaning | Business Intelligence
 
-![Dashboard Preview](screenshots/executive_summary.png)
+![Dashboard Preview](executive_summary.png)
 
 ---
 
@@ -41,7 +41,7 @@ High-level KPIs and revenue trends for leadership and stakeholders.
 - Revenue breakdown by industry and product
 
 **Key Insight:** Healthcare and Construction are the top revenue-generating industries. BI Consulting drives the highest revenue per deal among all products.
-
+![Dashboard Preview](executive_summary.png)
 ---
 
 ### Page 2 — Sales Pipeline
@@ -51,6 +51,7 @@ A real-time view of open pipeline health and rep-level workload.
 - Pipeline value and open deal count by sales rep (combo chart)
 
 **Key Insight:** Prospect stage holds the highest pipeline value ($724K), suggesting strong top-of-funnel activity but potential conversion bottlenecks moving into Proposal.
+![Dashboard Preview](sales_pipeline.png)
 
 ---
 
@@ -62,7 +63,7 @@ Rep-level performance analysis with period filtering.
 - Quarter-year slicer (tile format) for period filtering
 
 **Key Insight:** Overall Win Rate of 10.6% reflects 53 closed deals out of 500 total opportunities — consistent with B2B services industry benchmarks of 10–15%.
-
+![Dashboard Preview](sales_performance.png)
 ---
 
 ## Data Model
