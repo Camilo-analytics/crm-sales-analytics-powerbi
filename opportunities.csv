@@ -1,0 +1,501 @@
+opportunity_id,customer_id,rep_id,product,estimated_value,stage,probability_pct,created_date,expected_close_date,actual_close_date,lead_source,notes
+OPP00001,C0191,V003,Data Audit,3123.9,Lead,10,2023-09-19,2023-10-20,,Referral,
+OPP00002,C0073,V008,Data Audit,2823.8,Proposal,50,2024-04-18,,,,
+OPP00003,C0147,V002,BI Consulting,8733.44,Closed Lost,0,2023-12-18,27/01/2024,2024-02-28,,
+OPP00004,C0072,V001,Data Audit,4327.68,Lead,10,20/03/2023,2023-06-15,,Event,Comparing vendors
+OPP00005,C0010,V002,Analytics Pro,8448.91,Closed Lost,0,2023-07-04,2023-07-19,2023-07-27,,Board decision
+OPP00006,C0036,V005,Data Audit,4244.04,Prospect,25,2024-10-25,2025-02-02,,,
+OPP00007,C0158,V002,Dashboard Starter,2047.63,Prospect,25,2023-05-29,2023-06-30,,Cold Outreach,
+OPP00008,C0190,V004,BI Consulting,10780.4,Lead,10,2024-10-04,2025-01-20,,Referral,
+OPP00009,C0154,V005,Dashboard Starter,3609.51,Negotiation,75,2024-07-29,2024-08-24,,Cold Outreach,
+OPP00010,C0015,V003,Data Audit,2732.74,Lead,10,2024-08-16,2024/11/13,,Referral,
+OPP00011,C0100,V008,Data Audit,3456.39,Negotiation,75,2023-03-16,2023-06-01,,,Budget approved
+OPP00012,C0188,V001,Data Audit,4282.09,Negotiation,75,06/01/2023,04-26-2023,,Referral,
+OPP00013,C0070,V005,Data Audit,5000.23,Prospect,25,2023-07-03,2023-08-09,,Referral,Budget approved
+OPP00014,C0090,V001,BI Consulting,9372.55,Lead,10,2023-03-01,2023-04-12,,Event,Urgent
+OPP00015,C0081,V003,Dashboard Starter,2302.49,Negotiation,75,2024-07-06,2024/09/22,,Partner,Requires demo
+OPP00016,C0118,V005,Data Audit,4043.66,Closed Won,100,09-06-2024,2024/12/20,,Referral,Requires demo
+OPP00017,C0142,V004,Analytics Pro,6671.53,Prospect,25,2024/12/06,02-12-2025,,LinkedIn,Comparing vendors
+OPP00018,C0118,V005,Analytics Pro,7490.39,closed won,100,2023-09-04,2023-12-10,2023-10-24,Referral,Board decision
+OPP00019,C0135,V009,Dashboard Starter,3674.94,Prospect,25,2024-02-14,2024-05-03,,,
+OPP00020,C0050,V004,Dashboard Starter,2875.55,Closed Lost,0,2024-12-23,2025-04-12,2025-03-04,Event,Requires demo
+OPP00021,C0131,V001,Data Audit,5364.85,Closed Won,100,2024-11-01,2024-11-30,2024-12-20,Cold Outreach,Budget approved
+OPP00022,C0120,V010,BI Consulting,12988.25,Proposal,50,2023/12/12,2024-01-28,,Partner,
+OPP00023,C0025,V007,Custom Report,3956.65x,Prospect,25,2023-02-26,2023-04-01,,Partner,
+OPP00024,C0181,V008,Data Audit,4244.56,Lead,10,2024-10-14,2024-11-27,,Cold Outreach,
+OPP00025,C0016,V006,Dashboard Starter,2213.8,Closed Lost,,2023-11-28,2024-02-13,2024-01-25,Event,
+OPP00026,C0038,V008,Data Audit,5061.11,,100,2024-05-29,2024-09-19,2024-07-21,LinkedIn,Urgent
+OPP00027,C0136,V009,Dashboard Starter,,Prospect,25,2024-03-21,2024-06-29,,Cold Outreach,
+OPP00028,C0162,V003,Data Audit,5476.68,Proposal,50,2023-03-09,2023/04/20,,Referral,
+OPP00029,C0039,V003,BI Consulting,8216.16,Proposal,50,07/06/2023,2023-09-17,,Partner,
+OPP00030,C0104,V002,Analytics Pro,5019.79,Closed Won,100,2023-06-01,2023-07-29,,Website,
+OPP00031,C0072,V001,Custom Report,3807.27,Proposal,50,2024-01-08,2024-03-19,,Event,Requires demo
+OPP00032,C0085,V004,Data Audit,3116.92,Proposal,23,2023-11-25,2023-12-21,,,
+OPP00033,C0157,V003,BI Consulting,11827.58x,,50,2023-11-26,2023-12-16,,Cold Outreach,
+OPP00034,C0108,V003,Analytics Pro,9177.48,Prospect,,2024-05-09,2024-06-14,,LinkedIn,Comparing vendors
+OPP00035,C0180,V008,BI Consulting,11833.52x,Prospect,25,14/07/2023,2023-08-13,,Partner,Requires demo
+OPP00036,C0100,V008,Dashboard Starter,2727.62,Lead,10,2023-10-24,20/12/2023,,Partner,Comparing vendors
+OPP00037,C0057,V004,Custom Report,3833.0,Closed Won,100,2024-03-05,2024-04-05,2024-05-21,Cold Outreach,Urgent
+OPP00038,C0033,V009,,8325.59,,100,21/06/2024,2024-09-21,2024-07-27,Website,
+OPP00039,C0179,V006,Dashboard Starter,2925.52,Prospect,25,07/02/2024,2024-04-29,,Partner,
+OPP00040,C0054,V005,Analytics Pro,7716.59,Negotiation,75,2024-11-11,,,Website,Budget approved
+OPP00041,C0138,V010,Dashboard Starter,2822.86,Prospect,25,2024-11-19,2025/03/18,,LinkedIn,Comparing vendors
+OPP00042,C0075,V001,Custom Report,3310.47,Negotiation,26,08-20-2024,10-14-2024,,Referral,Budget approved
+OPP00043,C0036,V005,Custom Report,3248.99,Closed Lost,51x,11-15-2024,12-19-2024,2025-02-09,Event,
+OPP00044,C0071,V008,Custom Report,5167.11,Prospect,25,2023/03/04,2023-04-15,,,
+OPP00045,C0196,V005,Data Audit,4874.26,Closed Lost,0,2023-07-01,2023-09-12,,Event,Urgent
+OPP00046,C0067,V003,BI Consulting,12415.6,Prospect,,2023-04-09,2023-05-22,,Partner,
+OPP00047,C0141,V008,Data Audit,4717.85,Prospect,25,2023-02-05,2023-03-10,,Partner,
+OPP00048,C0094,V006,Data Audit,4224.56,Negotiation,75,2023-12-06,2024-03-17,,Website,Board decision
+OPP00049,C0146,V005,Custom Report,3453.23,Closed Won,30,2023-10-07,2023-11-30,2023-11-16,LinkedIn,Requires demo
+OPP00050,C0186,V003,,6539.45,Prospect,25,2024-04-16,2024-05-13,,LinkedIn,
+OPP00051,C0117,V006,Data Audit,3719.55,Prospect,25,2024/05/17,2024-09-04,,Partner,
+OPP00052,C0184,V005,,4486.07,Proposal,,2024-03-23,2024-05-21,,Cold Outreach,
+OPP00053,C0159,V005,BI Consulting,11065.35,Closed Lost,0,2024-06-05,2024-07-22,2024-08-06,Partner,
+OPP00054,C0071,V008,Dashboard Starter,2059.08,Closed Won,100,2024-09-06,2024-12-20,2024-10-20,,
+OPP00055,C0187,V003,BI Consulting,6893.35,Negotiation,75,2023-01-04,19/03/2023,,Cold Outreach,Budget approved
+OPP00056,C0007,V001,Data Audit,3249.38,Closed Lost,0,16/05/2023,2023-06-26,2023-06-04,Cold Outreach,Requires demo
+OPP00057,C0070,V005,Data Audit,3824.9,Lead,10,2024/08/05,2024-09-23,,Referral,
+OPP00058,C0121,V003,Dashboard Starter,3613.46,Proposal,50,12-01-2024,2025-02-28,,Event,
+OPP00059,C0158,V002,BI Consulting,13315.66x,Negotiation,75,2023-12-29,2024-04-16,,Cold Outreach,
+OPP00060,C0176,V010,Analytics Pro,5437.72,Prospect,25,16/10/2024,22/11/2024,,Partner,Comparing vendors
+OPP00061,C0196,V005,BI Consulting,11447.97,Lead,10,,2024-08-20,,Event,Budget approved
+OPP00062,C0075,V001,Custom Report,5302.09,Lead,10,2023-08-16,2023-12-07,,Referral,
+OPP00063,C0166,V005,Custom Report,5113.77,Lead,10,2024-04-05,05-08-2024,,Partner,
+OPP00064,C0064,V002,Custom Report,3705.55x,Negotiation,75,2023-02-08,2023-03-02,,Website,Comparing vendors
+OPP00065,C0152,V002,Dashboard Starter,2960.46,Negotiation,75,2024-03-29,05-11-2024,,Referral,Budget approved
+OPP00066,C0045,V005,BI Consulting,,Closed Lost,0,2024-06-02,2024-08-24,2024-07-31,,Board decision
+OPP00067,C0074,V002,Custom Report,6294.93,Negotiation,75,2023-10-21,2023-11-18,,Cold Outreach,
+OPP00068,C0176,V010,BI Consulting,9132.47,Lead,10x,2024-05-04,2024-08-31,,Partner,
+OPP00069,C0129,V008,Custom Report,2997.44,Lead,,03-03-2024,06-14-2024,,Website,
+OPP00070,C0103,V010,Custom Report,4317.53,Proposal,50,2024-02-07,02/05/2024,,Referral,
+OPP00071,C0149,V006,Data Audit,4944.39,Prospect,25,2024-03-22,06/04/2024,,Event,
+OPP00072,C0038,V008,Data Audit,3608.16,Negotiation,75,2023-02-21,2023-04-16,,LinkedIn,
+OPP00073,C0173,V001,Data Audit,2691.34,Lead,90,2023-09-09,2023-11-23,,Cold Outreach,Urgent
+OPP00074,C0117,V006,BI Consulting,7794.36,Lead,10,2024-11-09,24/02/2025,,Partner,
+OPP00075,C0122,V010,Dashboard Starter,3608.79,Proposal,50,2023/05/20,08-08-2023,,Event,
+OPP00076,C0165,V005,Data Audit,,Proposal,50,24/11/2023,24/01/2024,,,
+OPP00077,C0094,V006,Data Audit,3235.37,Negotiation,,2024-05-06,2024-07-06,,Website,
+OPP00078,C0028,V005,Custom Report,4045.33,Lead,10,2024-04-27,2024-06-06,,Event,
+OPP00079,C0088,V008,Data Audit,3859.91,Negotiation,75,04-10-2024,2024/07/30,,Event,
+OPP00080,C0109,V004,Analytics Pro,9561.61,Proposal,50,,2023-04-25,,Cold Outreach,Urgent
+OPP00081,C0147,V002,BI Consulting,8252.86,Lead,10,2024-12-05,2025-02-19,,,
+OPP00082,C0178,V007,Dashboard Starter,3497.04,Lead,10,20/12/2024,09/04/2025,,Partner,Urgent
+OPP00083,C0060,V001,Dashboard Starter,3124.13,Proposal,50,2024-01-26,2024-04-24,,Event,
+OPP00084,C0069,V004,Custom Report,3649.95,Prospect,25,2024-10-12,01-23-2025,,,
+OPP00085,C0078,V007,Data Audit,2843.05,Lead,10,2023-02-22,2023-04-03,,Event,
+OPP00086,C0019,V006,Custom Report,5480.56,Negotiation,75,2024-01-19,2024-02-24,,Event,
+OPP00087,C0076,V001,BI Consulting,12024.53,Prospect,25x,20/04/2023,2023-08-09,,,
+OPP00088,C0079,V005,Custom Report,4838.84,Closed Won,100,15/11/2024,2024-12-09,2025-01-13,LinkedIn,
+OPP00089,C0082,V005,Dashboard Starter,3601.76,Lead,10,2024-07-19,2024-11-04,,LinkedIn,Requires demo
+OPP00090,C0125,V003,Analytics Pro,7644.16,Prospect,25,2024-06-17,2024-08-22,,Website,
+OPP00091,C0147,V002,BI Consulting,12192.14,Closed Won,100,2024-10-22,2024-12-19,2024-11-07,,Urgent
+OPP00092,C0173,V001,Data Audit,4370.76,Negotiation,,2024-11-05,2024-11-30,,Cold Outreach,Urgent
+OPP00093,C0195,V010,,10378.9,Prospect,25,2024-03-24,2024-06-20,,Cold Outreach,
+OPP00094,C0106,V003,BI Consulting,13188.03,Negotiation,75,2024-02-20,2024-05-24,,Referral,Requires demo
+OPP00095,C0189,V007,Analytics Pro,6531.14,Prospect,25,2024-01-31,2024-05-17,,Website,
+OPP00096,C0186,V003,Custom Report,5737.41,Proposal,50,2024-09-08,2024-10-18,,LinkedIn,
+OPP00097,C0023,V003,BI Consulting,7680.53,Lead,10,2023-12-15,24/03/2024,,Event,
+OPP00098,C0167,V006,Dashboard Starter,3382.58,Proposal,50,2023-08-25,15/10/2023,,Website,Comparing vendors
+OPP00099,C0087,V005,Custom Report,5339.69,Prospect,25,09-11-2024,2024-10-15,,,Comparing vendors
+OPP00100,C0064,V002,Data Audit,5579.45,Prospect,25,2023-01-15,2023-02-06,,Website,
+OPP00101,C0181,V008,Analytics Pro,9001.54,LEAD,10x,11-22-2024,2025-03-20,,Cold Outreach,Board decision
+OPP00102,C0127,V006,Data Audit,3626.05,Negotiation,75,2023-08-28,2023/11/13,,Event,
+OPP00103,C0051,V007,Dashboard Starter,2927.01,Prospect,25,2023-01-12,2023-03-19,,Website,
+OPP00104,C0031,V008,Dashboard Starter,3720.53,Prospect,25,2023-01-24,2023/02/09,,LinkedIn,
+OPP00105,C0199,V001,Dashboard Starter,1908.87,Proposal,50,2024-10-19,2025-01-03,,Partner,Budget approved
+OPP00106,C0010,V002,Data Audit,3231.07,Prospect,25,09-13-2023,2023-12-23,,LinkedIn,
+OPP00107,C0197,V009,Data Audit,4105.37,Proposal,50,2024-11-08,2025-02-24,,Event,
+OPP00108,C0074,V002,Custom Report,4094.96,Proposal,50,2023-08-02,2023/11/07,,Cold Outreach,
+OPP00109,C0157,V003,,2448.68,Negotiation,75,03/03/2023,2023-04-16,,Cold Outreach,Board decision
+OPP00110,C0154,V005,Dashboard Starter,2488.26,Lead,10,2023-04-18,,,Cold Outreach,
+OPP00111,C0141,V008,Dashboard Starter,3153.55,Negotiation,75,2023-04-29,07-05-2023,,Partner,
+OPP00112,C0117,V006,BI Consulting,10108.51,Lead,10,2023-08-30,2023-09-20,,Partner,
+OPP00113,C0093,V001,Custom Report,4924.13,Closed Lost,0,,2023-08-29,2023/08/18,Referral,Comparing vendors
+OPP00114,C0012,V001,BI Consulting,9589.0,Proposal,50,2023-09-17,2023-12-22,,Referral,Requires demo
+OPP00115,C0012,V001,Dashboard Starter,2340.45,Closed Won,100,2023-03-16,2023-04-05,06-12-2023,Referral,Board decision
+OPP00116,C0038,V008,Data Audit,3597.42,Closed Won,100,2024-11-27,2025-01-27,16/02/2025,LinkedIn,Requires demo
+OPP00117,C0086,V004,Dashboard Starter,1758.35,Negotiation,75,04-06-2023,2023-08-02,,LinkedIn,Comparing vendors
+OPP00118,C0038,V008,Custom Report,5661.05,Negotiation,75x,2023-11-17,2024-02-29,,LinkedIn,Comparing vendors
+OPP00119,C0146,V005,Data Audit,4807.06,Negotiation,75,04-13-2023,19/05/2023,,LinkedIn,Requires demo
+OPP00120,C0170,V002,Data Audit,4693.22,Prospect,25,08-03-2023,11-09-2023,,Event,
+OPP00121,C0160,V003,,5301.17,Closed Lost,0,2023-01-13,2023-04-27,03/03/2023,LinkedIn,
+OPP00122,C0143,V002,Data Audit,5624.63,Prospect,25,2023-06-30,2023-08-08,,Referral,
+OPP00123,C0152,V002,Dashboard Starter,3352.55,Prospect,25,2024-05-13,2024-08-06,,Referral,
+OPP00124,C0094,V006,Analytics Pro,6441.06,Prospect,79,2024-03-09,2024-03-23,,Website,Comparing vendors
+OPP00125,C0014,V006,BI Consulting,12475.27,Negotiation,75,04-29-2024,2024-07-05,,LinkedIn,
+OPP00126,C0126,V009,Data Audit,3168.49,Prospect,25,2024-10-31,2024-11-25,,Website,
+OPP00127,C0178,V007,Data Audit,5391.51,Prospect,25,01/05/2023,2023-06-21,,Partner,Board decision
+OPP00128,C0112,V003,Analytics Pro,6480.17,Prospect,25,2023-08-26,28/10/2023,,Cold Outreach,
+OPP00129,C0184,V005,Analytics Pro,7642.43,Prospect,,15/08/2023,2023-10-24,,Cold Outreach,Urgent
+OPP00130,C0040,V007,Custom Report,3153.5,Prospect,25,2023/04/30,2023-06-02,,Cold Outreach,Board decision
+OPP00131,C0175,V008,Analytics Pro,7776.12,Closed Lost,0,2024-06-18,2024-07-30,2024-08-16,Referral,Urgent
+OPP00132,C0101,V009,BI Consulting,8482.45,Negotiation,75,2024/10/04,12-21-2024,,Event,
+OPP00133,C0199,V001,BI Consulting,11618.37,Prospect,,04/07/2023,2023-08-24,,Partner,
+OPP00134,C0195,V010,Custom Report,5521.63,Closed Lost,0,2024-07-11,06/10/2024,2024-09-13,Cold Outreach,
+OPP00135,C0128,V005,Custom Report,4161.36,Proposal,50,2023-11-07,2024-02-21,,Cold Outreach,Urgent
+OPP00136,C0184,V005,BI Consulting,,Negotiation,75,2023-08-11,2023-12-06,,Cold Outreach,
+OPP00137,C0149,V006,Data Audit,4121.62,Proposal,14,2024-12-28,2025-04-19,,Event,Comparing vendors
+OPP00138,C0035,V001,Custom Report,3044.83,Closed Won,21,2023-05-05,2023-07-09,2023-07-19,Website,
+OPP00139,C0027,V009,Dashboard Starter,2522.03,Proposal,50,12-31-2024,2025/03/30,,,
+OPP00140,C0173,V001,Analytics Pro,9156.84,,10,15/11/2024,2024-12-02,,Cold Outreach,Requires demo
+OPP00141,C0117,V006,Analytics Pro,5659.25,Closed Lost,0,2024-11-16,2024-12-22,08/12/2024,Partner,Budget approved
+OPP00142,C0136,V009,Dashboard Starter,2279.32,Proposal,50,2023-05-29,24/08/2023,,Cold Outreach,
+OPP00143,C0039,V003,BI Consulting,9325.44,Prospect,25,2024-12-05,2024/12/23,,Partner,
+OPP00144,C0021,V005,Analytics Pro,7699.61,,100,2023-11-03,01-08-2024,,Referral,
+OPP00145,C0061,V006,Dashboard Starter,,Prospect,25,2023-07-23,2023-10-23,,Referral,Budget approved
+OPP00146,C0196,V005,Dashboard Starter,3620.78,Closed Lost,0,2024-06-17,2024-07-08,2024/08/05,Event,Board decision
+OPP00147,C0098,V009,Dashboard Starter,2273.08,Prospect,25,2023/10/02,2023-12-19,,Cold Outreach,
+OPP00148,C0168,V008,Data Audit,,Lead,10,2024-03-29,2024/05/27,,LinkedIn,
+OPP00149,C0190,V004,,9615.92,Prospect,98,2024-04-22,2024-07-29,,Referral,Requires demo
+OPP00150,C0115,V009,BI Consulting,9443.63,Closed Lost,0,2024-07-07,2024-10-24,2024/07/28,Partner,
+OPP00151,C0034,V001,Custom Report,3282.24,lead,10,,2024/04/12,,Website,Budget approved
+OPP00152,C0064,V002,BI Consulting,7156.01,Proposal,50,2024-01-28,2024-04-17,,Website,
+OPP00153,C0090,V001,BI Consulting,13065.51,Proposal,50,2024-09-19,2024-12-21,,Event,
+OPP00154,C0052,V008,Custom Report,5875.16,Closed Won,100,2023-09-21,2023-12-15,2023-10-31,Cold Outreach,
+OPP00155,C0029,V007,BI Consulting,7632.4x,Proposal,50,2024-04-17,05-14-2024,,Referral,
+OPP00156,C0178,V007,Dashboard Starter,3015.11,,75,08-06-2023,2023-10-13,,Partner,Budget approved
+OPP00157,C0198,V008,Data Audit,2748.16,Lead,10,2023-10-22,2023-12-18,,Partner,Budget approved
+OPP00158,C0010,V002,BI Consulting,11112.09,Negotiation,75x,07-24-2024,2024-08-11,,LinkedIn,
+OPP00159,C0007,V001,Dashboard Starter,2121.54,Lead,10,2023-11-02,2024-01-10,,Cold Outreach,Requires demo
+OPP00160,C0080,V005,Custom Report,5218.55,Prospect,25,2024-12-11,2025-03-29,,Cold Outreach,Urgent
+OPP00161,C0043,V008,Dashboard Starter,1774.07,Closed Lost,0,2024-03-17,,2024-04-07,,
+OPP00162,C0049,V006,Dashboard Starter,3312.51,Closed Won,100,2023-11-21,10/02/2024,10/01/2024,Partner,Requires demo
+OPP00163,C0011,V010,Custom Report,4572.02,Prospect,25,2023-04-21,08/08/2023,,LinkedIn,
+OPP00164,C0047,V008,BI Consulting,11525.03,Closed Lost,0,2023/01/19,04-15-2023,06/02/2023,LinkedIn,
+OPP00165,C0139,V007,Analytics Pro,8258.57,Closed Lost,0,2023-11-01,12-19-2023,2024-01-03,Referral,
+OPP00166,C0168,V008,Analytics Pro,5233.77x,Lead,10,23/08/2023,2023-10-04,,LinkedIn,
+OPP00167,C0113,V007,Data Audit,4510.37,Negotiation,75,2024/09/05,2024/09/23,,Partner,Requires demo
+OPP00168,C0011,V010,Data Audit,5017.46,Closed Won,100,26/09/2023,2023-10-24,2023-12-18,,
+OPP00169,C0101,V009,BI Consulting,10668.05,Negotiation,75,2024-05-31,18/07/2024,,Event,
+OPP00170,C0002,V005,BI Consulting,8591.14,Closed Won,100,2023-08-26,2023-11-01,2023-11-08,Website,Board decision
+OPP00171,C0034,V001,Dashboard Starter,3196.62,,100,2024-02-08,2024-05-11,,Website,Urgent
+OPP00172,C0181,V008,BI Consulting,10753.09,Prospect,25,02-21-2024,2024-05-16,,,Urgent
+OPP00173,C0163,V003,Custom Report,4355.48,Prospect,25,2024-12-19,2025-04-16,,Cold Outreach,Comparing vendors
+OPP00174,C0174,V006,Dashboard Starter,1760.81,Closed Won,100,2024-12-22,2025-01-12,2025-02-12,LinkedIn,
+OPP00175,C0042,V005,Custom Report,5756.85,Negotiation,75,2023-10-29,2024-01-28,,Event,Budget approved
+OPP00176,C0140,V001,Analytics Pro,8772.92,Proposal,90,2023-02-17,2023-03-30,,Website,Board decision
+OPP00177,C0025,V007,Data Audit,,Lead,10,11/02/2023,,,Partner,Urgent
+OPP00178,C0098,V009,Custom Report,2945.54,Lead,10,10-12-2024,2024-12-01,,Cold Outreach,
+OPP00179,C0199,V001,Data Audit,2824.58,Proposal,50,29/12/2023,2024-04-08,,Partner,Budget approved
+OPP00180,C0052,V008,Custom Report,5506.07,Closed Won,100,2024-02-29,2024-06-25,2024-04-09,Cold Outreach,
+OPP00181,C0051,V007,Data Audit,2888.17,Negotiation,75,07/08/2023,,,Website,
+OPP00182,C0190,V004,Custom Report,5393.86x,lead,10,2024-09-22,2024-12-01,,Referral,Board decision
+OPP00183,C0175,V008,Custom Report,4117.79,Closed Won,100,2024/07/04,2024-10-04,20/08/2024,,Requires demo
+OPP00184,C0176,V010,Analytics Pro,6604.52,Proposal,50,06-19-2023,09-26-2023,,Partner,
+OPP00185,C0157,V003,BI Consulting,7463.84,Lead,10,10/03/2023,05-15-2023,,Cold Outreach,
+OPP00186,C0141,V008,Data Audit,3732.93x,Proposal,50,2023-10-03,2023-12-14,,Partner,Requires demo
+OPP00187,C0117,V006,Custom Report,6210.77,Closed Lost,0,06-08-2024,,2024-07-07,Partner,
+OPP00188,C0163,V003,Analytics Pro,5141.48x,Proposal,50,2024/12/07,01/02/2025,,,Requires demo
+OPP00189,C0119,V001,Custom Report,5304.88,Prospect,25,2023-07-17,2023-09-29,,Referral,
+OPP00190,C0114,V007,BI Consulting,7367.59,Proposal,50,29/10/2023,07/02/2024,,Event,
+OPP00191,C0050,V004,Data Audit,4587.29,Closed Won,100,2023-08-15,15/09/2023,03/10/2023,Event,Requires demo
+OPP00192,C0117,V006,Dashboard Starter,3235.26,,10,2024-03-17,2024-07-01,,Partner,
+OPP00193,C0066,V007,Analytics Pro,5572.6,LEAD,10,2023-02-05,2023/04/01,,,Budget approved
+OPP00194,C0068,V009,BI Consulting,8028.51,Closed Won,100,18/12/2023,2024-04-03,2024-03-14,Referral,
+OPP00195,C0147,V002,Analytics Pro,5671.83x,Lead,10,12-12-2024,,,,Requires demo
+OPP00196,C0127,V006,Data Audit,5546.92,Lead,10,2023-06-24,2023-09-07,,Event,
+OPP00197,C0160,V003,Analytics Pro,7310.35,Lead,10,2024-04-02,2024-05-18,,LinkedIn,Budget approved
+OPP00198,C0095,V005,Analytics Pro,7821.27,Proposal,32,2023-11-20,01-24-2024,,Referral,Urgent
+OPP00199,C0077,V005,Dashboard Starter,1815.28,Prospect,25,2024-01-12,2024-03-20,,Event,Comparing vendors
+OPP00200,C0036,V005,Analytics Pro,5236.15,Proposal,50,2024-05-10,25/08/2024,,Event,
+OPP00201,C0179,V006,Custom Report,5196.25,Proposal,50,2024-05-18,2024-08-15,,Partner,Comparing vendors
+OPP00202,C0162,V003,Custom Report,3214.04,Closed Won,100,2024-07-18,2024-10-21,2024-08-15,Referral,
+OPP00203,C0139,V007,Dashboard Starter,3186.62,Proposal,93,2023-01-17,04-23-2023,,Referral,Board decision
+OPP00204,C0011,V010,BI Consulting,7906.52,Prospect,25,07-12-2023,2023-10-29,,LinkedIn,Comparing vendors
+OPP00205,C0035,V001,Custom Report,4922.11,closed lost,0,2024-10-11,2025-01-03,2024-12-04,Website,Board decision
+OPP00206,C0152,V002,BI Consulting,10071.17,Proposal,4,2024-02-05,2024-03-16,,Referral,
+OPP00207,C0083,V002,BI Consulting,,Proposal,50,07-22-2024,2024-10-21,,Event,Board decision
+OPP00208,C0032,V001,Data Audit,4964.07,Prospect,25,19/10/2024,2025-01-05,,LinkedIn,Comparing vendors
+OPP00209,C0109,V004,BI Consulting,8232.43,Proposal,50,2023-11-14,2024-02-03,,Cold Outreach,Comparing vendors
+OPP00210,C0070,V005,Data Audit,,Proposal,50,2024-09-22,2024-12-14,,Referral,
+OPP00211,C0041,V005,Dashboard Starter,2912.54,Lead,10,2024-03-11,2024-03-28,,Website,Comparing vendors
+OPP00212,C0011,V010,Dashboard Starter,1871.9,Proposal,50,2023-11-01,2023/12/06,,LinkedIn,Board decision
+OPP00213,C0025,V007,Data Audit,4851.81,Proposal,50,06-01-2023,2023/08/10,,Partner,Urgent
+OPP00214,C0198,V008,Custom Report,4118.69,Closed Won,100,15/12/2023,01/01/2024,2024-03-12,Partner,Budget approved
+OPP00215,C0099,V008,Dashboard Starter,,Closed Lost,0,2023/02/05,2023-03-19,2023-04-16,Partner,Board decision
+OPP00216,C0118,V005,Dashboard Starter,2907.78,Lead,10,2024-06-18,2024-07-25,,Referral,
+OPP00217,C0146,V005,Data Audit,2881.32,Prospect,25,2023-10-13,2023-12-05,,,Requires demo
+OPP00218,C0022,V002,Data Audit,5019.65,Prospect,25,06-06-2024,25/06/2024,,Referral,Board decision
+OPP00219,C0070,V005,Analytics Pro,9523.1,Negotiation,75,2024-07-12,29/07/2024,,Referral,
+OPP00220,C0044,V005,,3104.82,Prospect,25,2023-05-30,2023/06/23,,,Comparing vendors
+OPP00221,C0101,V009,BI Consulting,8895.38,Prospect,25,2024-05-07,2024-09-04,,Event,
+OPP00222,C0101,V009,Dashboard Starter,,Negotiation,75,2023-10-20,2023-11-23,,Event,
+OPP00223,C0132,V010,,3161.43,Lead,10x,2024-10-26,2024-12-30,,Referral,Requires demo
+OPP00224,C0084,V009,BI Consulting,6964.47,Prospect,25,2023-02-01,2023-05-26,,Event,
+OPP00225,C0072,V001,Dashboard Starter,2737.23,Proposal,50,2024-03-18,02/05/2024,,Event,
+OPP00226,C0087,V005,Analytics Pro,9135.6,Lead,10,31/10/2023,2024-02-15,,Cold Outreach,Requires demo
+OPP00227,C0107,V005,Custom Report,5484.9,Closed Won,100,12-30-2024,16/03/2025,2025-03-30,Website,
+OPP00228,C0184,V005,Analytics Pro,7287.19,Prospect,25,2024-02-08,2024-03-19,,Cold Outreach,
+OPP00229,C0176,V010,Data Audit,,Prospect,25,16/09/2023,2023-10-17,,Partner,Budget approved
+OPP00230,C0026,V004,BI Consulting,11964.02,Lead,10,2024/06/10,2024-07-20,,Cold Outreach,Comparing vendors
+OPP00231,C0179,V006,Data Audit,5199.99,Closed Lost,64,2024-01-06,2024-02-25,2024-02-29,Partner,
+OPP00232,C0104,V002,Custom Report,3065.01,Negotiation,75,12/05/2023,2023-06-25,,Website,
+OPP00233,C0150,V004,Analytics Pro,5243.81,Negotiation,41,2023-11-20,2024-03-06,,,
+OPP00234,C0147,V002,Dashboard Starter,2909.15,,10,2023-05-21,2023-07-12,,,
+OPP00235,C0175,V008,Analytics Pro,5862.19,Proposal,50,,2024-10-24,,Referral,Urgent
+OPP00236,C0006,V003,Analytics Pro,5609.72,Negotiation,75,2023-02-13,,,,
+OPP00237,C0180,V008,Data Audit,2855.25,Lead,,2024-03-27,25/07/2024,,,Urgent
+OPP00238,C0197,V009,Custom Report,3592.0,Prospect,25,2023-02-17,2023-04-17,,Event,Board decision
+OPP00239,C0131,V001,Data Audit,4799.9,Negotiation,75,2024-02-04,2024-05-24,,Cold Outreach,
+OPP00240,C0192,V003,Analytics Pro,7933.94,Proposal,50,2024-07-09,2024-10-15,,Website,Comparing vendors
+OPP00241,C0187,V003,BI Consulting,13074.22,Prospect,25,,2023-08-18,,Cold Outreach,Urgent
+OPP00242,C0129,V008,Custom Report,5448.47,Prospect,25,2023-11-27,2024-02-13,,Website,Urgent
+OPP00243,C0144,V004,Custom Report,,closed won,100,2024-03-05,05-25-2024,2024-04-21,,Urgent
+OPP00244,C0086,V004,Analytics Pro,8425.37,Lead,10,11/07/2023,09-05-2023,,LinkedIn,
+OPP00245,C0084,V009,Dashboard Starter,3119.97,Negotiation,75,2024-07-04,2024-07-24,,Event,Budget approved
+OPP00246,C0171,V001,BI Consulting,12592.16,Closed-Won,100,2023-11-22,,2024-02-10,Referral,Budget approved
+OPP00247,C0035,V001,,4038.09,Prospect,25,2024-05-09,2024-06-30,,Website,Budget approved
+OPP00248,C0156,V006,Analytics Pro,6598.04,Lead,10,03/03/2023,2023/06/02,,Event,
+OPP00249,C0080,V005,Custom Report,3520.85,Closed Won,,14/01/2024,2024-02-14,2024-03-16,Cold Outreach,
+OPP00250,C0065,V005,BI Consulting,10034.33,Proposal,50,01/10/2024,2024-10-20,,Referral,
+OPP00251,C0172,V007,Data Audit,3199.08,Proposal,50,2023/05/02,06-06-2023,,Partner,
+OPP00252,C0200,V002,Data Audit,4344.8,Negotiation,75,15/08/2023,2023-11-10,,Event,Budget approved
+OPP00253,C0159,V005,Custom Report,3827.48,Lead,10,2024-02-28,25/05/2024,,Partner,
+OPP00254,C0086,V004,Dashboard Starter,1983.81,Proposal,50,2023-07-03,10-19-2023,,LinkedIn,
+OPP00255,C0074,V002,Analytics Pro,7286.78,Proposal,50,09-22-2023,2023-12-29,,Cold Outreach,
+OPP00256,C0046,V006,BI Consulting,,CLOSED LOST,0,2023-05-15,2023-06-16,2023-08-01,Cold Outreach,
+OPP00257,C0159,V005,Dashboard Starter,3380.69,Lead,10,2023-06-16,2023-08-30,,Partner,Budget approved
+OPP00258,C0096,V001,BI Consulting,7712.05,closed lost,0,2023-04-22,07-28-2023,05-27-2023,LinkedIn,Budget approved
+OPP00259,C0198,V008,Data Audit,,Closed Lost,0,04-21-2024,2024-06-13,2024-07-14,,
+OPP00260,C0122,V010,Dashboard Starter,2182.12,Prospect,25,14/04/2024,2024-05-23,,Event,Urgent
+OPP00261,C0057,V004,Analytics Pro,7448.91,Prospect,25,2023-06-17,2023-09-20,,Cold Outreach,Comparing vendors
+OPP00262,C0064,V002,Analytics Pro,8563.34,Proposal,5,2024-01-25,2024/04/04,,Website,Requires demo
+OPP00263,C0173,V001,Custom Report,5210.44,Negotiation,75,2024-01-30,02-16-2024,,Cold Outreach,Urgent
+OPP00264,C0009,V003,Custom Report,4375.37,Prospect,25,2024-06-30,2024-09-03,,Referral,Board decision
+OPP00265,C0162,V003,BI Consulting,10041.27,Prospect,55,2023-05-02,2023-05-19,,Referral,
+OPP00266,C0058,V010,Dashboard Starter,1874.2,Proposal,13,2023-02-06,2023/04/15,,LinkedIn,
+OPP00267,C0025,V007,Custom Report,3930.23,Prospect,25,31/12/2024,2025-03-13,,Partner,Comparing vendors
+OPP00268,C0036,V005,BI Consulting,9220.95,Prospect,25,2024-12-06,2025-03-14,,Event,Requires demo
+OPP00269,C0090,V001,Dashboard Starter,3509.39,Lead,10,2024/04/04,2024-05-08,,Event,
+OPP00270,C0105,V010,BI Consulting,,Proposal,50,2023-01-27,2023-04-06,,Website,
+OPP00271,C0133,V003,,2179.21,Negotiation,75,2023-01-23,2023/04/30,,Event,Budget approved
+OPP00272,C0169,V002,Dashboard Starter,,Prospect,25,01/06/2024,09-03-2024,,Website,Board decision
+OPP00273,C0043,V008,Data Audit,5195.88,Lead,10,2023-10-13,2023-11-28,,,Requires demo
+OPP00274,C0190,V004,BI Consulting,7430.96x,Lead,10,2023/12/17,2024-02-02,,,Urgent
+OPP00275,C0145,V001,Dashboard Starter,2465.8,Proposal,50x,2024-05-03,2024-05-29,,Website,
+OPP00276,C0158,V002,Custom Report,3053.39,,25,2023-06-30,28/07/2023,,,
+OPP00277,C0199,V001,Data Audit,4314.14,Proposal,50,09/02/2024,2024-03-28,,Partner,
+OPP00278,C0137,V005,Dashboard Starter,2722.14,Proposal,50,2024-02-11,05-06-2024,,,Urgent
+OPP00279,C0008,V007,Custom Report,4034.37,Lead,10,09/06/2024,2024-06-28,,,Comparing vendors
+OPP00280,C0056,V007,Data Audit,5458.54,Negotiation,75,2024-06-14,2024-09-11,,Partner,Urgent
+OPP00281,C0181,V008,Analytics Pro,7751.72,Prospect,25,2024-05-13,2024-06-20,,Cold Outreach,Board decision
+OPP00282,C0012,V001,Custom Report,4557.34,Proposal,50,2023-11-13,2023-12-16,,Referral,
+OPP00283,C0095,V005,BI Consulting,9929.26,Negotiation,75,2024/10/26,2025/01/17,,Referral,Requires demo
+OPP00284,C0098,V009,Data Audit,5052.8,Negotiation,75,10-14-2023,2023-12-12,,Cold Outreach,
+OPP00285,C0174,V006,Custom Report,4003.36,Negotiation,75,10/04/2023,07-24-2023,,LinkedIn,Board decision
+OPP00286,C0136,V009,Custom Report,4701.12,Negotiation,75,2023-11-24,2023-12-18,,Cold Outreach,Comparing vendors
+OPP00287,C0181,V008,Data Audit,3788.79,Closed Lost,0,09/10/2024,2024-11-29,2024-12-29,Cold Outreach,
+OPP00288,C0091,V006,Data Audit,4227.45x,Lead,10,2024-02-12,2024-04-13,,Event,Budget approved
+OPP00289,C0117,V006,Custom Report,4091.12,Closed Lost,0,2023-12-19,05/03/2024,24/02/2024,Partner,
+OPP00290,C0064,V002,BI Consulting,12940.92,Negotiation,75,2023-10-07,2024-01-21,,Website,
+OPP00291,C0128,V005,Data Audit,3502.92,,75,2023-02-18,2023-04-18,,Cold Outreach,Urgent
+OPP00292,C0163,V003,BI Consulting,7140.18,Closed Won,100,,2024-05-24,2024-04-15,Cold Outreach,
+OPP00293,C0192,V003,Analytics Pro,4873.44,Negotiation,75,2023-08-29,2023-10-31,,Website,Comparing vendors
+OPP00294,C0135,V009,Custom Report,4017.78,Negotiation,75,2024-05-02,2024-06-01,,LinkedIn,
+OPP00295,C0137,V005,Analytics Pro,,Closed Lost,0,2024-12-07,2024-12-28,2025-02-06,LinkedIn,
+OPP00296,C0100,V008,Analytics Pro,5069.69,Proposal,50,2024-10-19,2024-11-03,,,Comparing vendors
+OPP00297,C0024,V003,Analytics Pro,5818.01,Closed Won,61,2023-11-06,,2023-12-17,Partner,Urgent
+OPP00298,C0160,V003,Analytics Pro,7847.26,Prospect,25,2024-09-17,2024-11-18,,LinkedIn,Comparing vendors
+OPP00299,C0064,V002,Dashboard Starter,3498.68,Prospect,25,2024-06-12,2024/08/21,,Website,
+OPP00300,C0037,V006,,5834.32,Lead,91,11/09/2023,2023-10-23,,LinkedIn,Urgent
+OPP00301,C0102,V008,BI Consulting,12631.04,Negotiation,75,2023-07-16,2023-10-03,,Cold Outreach,Comparing vendors
+OPP00302,C0146,V005,Dashboard Starter,3675.82,Negotiation,75,13/05/2024,05-29-2024,,LinkedIn,
+OPP00303,C0177,V005,BI Consulting,10232.24,Negotiation,75,28/03/2023,2023-05-08,,Referral,Comparing vendors
+OPP00304,C0136,V009,Analytics Pro,7881.55,Lead,10,2023-04-13,2023-05-10,,Cold Outreach,
+OPP00305,C0129,V008,BI Consulting,11233.29,Negotiation,75,2024-08-27,2024-10-09,,Website,Urgent
+OPP00306,C0194,V003,Analytics Pro,9325.62,Negotiation,54,2024-05-02,,,,
+OPP00307,C0092,V006,Analytics Pro,4632.28,Lead,10,2023-01-26,2023-05-07,,LinkedIn,
+OPP00308,C0120,V010,BI Consulting,8987.7,Prospect,25,2023/05/07,07-29-2023,,Partner,
+OPP00309,C0068,V009,Analytics Pro,9447.98,Closed Lost,0,2023-04-28,2023-07-13,2023-07-10,,
+OPP00310,C0195,V010,Dashboard Starter,2006.8,Closed Lost,0,2023-02-26,2023-06-22,2023-04-09,Cold Outreach,Budget approved
+OPP00311,C0054,V005,BI Consulting,10003.42,Negotiation,61,2023-12-06,31/01/2024,,Website,Requires demo
+OPP00312,C0081,V003,Custom Report,3102.33,Closed Won,100,2023/11/26,2024-02-19,2023/12/26,Partner,
+OPP00313,C0139,V007,Custom Report,3843.35,Closed Won,100,2024-05-15,2024-05-29,2024-05-31,Referral,Urgent
+OPP00314,C0192,V003,BI Consulting,8484.34,Closed Won,100,,2024-03-03,28/12/2023,Website,
+OPP00315,C0094,V006,Analytics Pro,4609.83,Prospect,25,2024/06/24,2024-08-05,,Website,Requires demo
+OPP00316,C0177,V005,Dashboard Starter,1955.12,Proposal,50,2023-09-23,2023-10-15,,Referral,Board decision
+OPP00317,C0030,V003,,12627.54,Closed Won,100,2023-05-18,2023-09-12,2023/06/27,Partner,Comparing vendors
+OPP00318,C0089,V007,BI Consulting,13113.19,Negotiation,75,11-21-2023,2023-12-24,,,
+OPP00319,C0144,V004,Custom Report,4461.68,Prospect,25,2024/01/13,2024-02-11,,,Board decision
+OPP00320,C0118,V005,BI Consulting,8601.93,Prospect,25,2024/01/04,2024/01/28,,Referral,
+OPP00321,C0068,V009,Custom Report,5273.91,Negotiation,75,2024-04-05,2024-04-22,,Referral,
+OPP00322,C0008,V007,Dashboard Starter,2389.29,Proposal,50,2023-04-05,2023-06-12,,Cold Outreach,
+OPP00323,C0026,V004,Analytics Pro,7694.56,Negotiation,75,2024-08-03,2024-10-04,,Cold Outreach,
+OPP00324,C0123,V009,Custom Report,,Prospect,25,2024-11-30,2025-01-22,,Cold Outreach,Requires demo
+OPP00325,C0067,V003,BI Consulting,13408.5,Negotiation,75,21/05/2023,06-12-2023,,Partner,Budget approved
+OPP00326,C0175,V008,BI Consulting,11332.51,Prospect,25,2024-10-18,2024-11-01,,Referral,Urgent
+OPP00327,C0107,V005,Custom Report,5810.83,Prospect,25,2023-06-01,2023-08-16,,Website,Budget approved
+OPP00328,C0121,V003,Dashboard Starter,3152.8,Proposal,50,2023/06/13,2023/09/11,,,Urgent
+OPP00329,C0097,V010,Data Audit,4116.64,Prospect,25,2023-11-06,2024-02-29,,Cold Outreach,Requires demo
+OPP00330,C0162,V003,Analytics Pro,7437.63,Proposal,50,2024-09-28,11-09-2024,,Referral,Comparing vendors
+OPP00331,C0198,V008,Dashboard Starter,1962.92,Proposal,50,2023/12/17,2024-04-11,,Partner,
+OPP00332,C0179,V006,Data Audit,3722.34,Proposal,50,2024-08-06,2024-11-18,,Partner,
+OPP00333,C0107,V005,Dashboard Starter,2712.39,Proposal,50,2023-05-14,2023-07-24,,Website,
+OPP00334,C0192,V003,Custom Report,6092.73,Lead,10,,2024-02-17,,Website,
+OPP00335,C0020,V005,Custom Report,3846.02,Proposal,50,2024-12-22,2025-02-12,,,Urgent
+OPP00336,C0164,V006,Custom Report,4341.76,Proposal,50,2023-10-15,07/11/2023,,,Requires demo
+OPP00337,C0030,V003,Data Audit,3247.2,Negotiation,75,2023-05-07,28/05/2023,,Partner,
+OPP00338,C0019,V006,Custom Report,5261.57,Lead,10,2024-06-28,2024/08/09,,Event,Requires demo
+OPP00339,C0059,V006,Data Audit,3302.02,Lead,10,2023-03-15,2023-05-24,,Cold Outreach,
+OPP00340,C0049,V006,Data Audit,4641.45,Lead,10,2024-07-09,,,Partner,
+OPP00341,C0117,V006,Custom Report,5727.07,Prospect,25,2024-12-03,2025-02-26,,Partner,Comparing vendors
+OPP00342,C0002,V005,,2855.46,Closed Won,59,22/04/2024,2024-06-28,2024-06-20,Website,Budget approved
+OPP00343,C0112,V003,BI Consulting,6716.65,Proposal,50,,,,Cold Outreach,
+OPP00344,C0181,V008,Data Audit,5525.4,Proposal,50,2024-06-23,10-17-2024,,Cold Outreach,Budget approved
+OPP00345,C0076,V001,Custom Report,5481.4,Closed Won,100,2024-04-13,05-10-2024,06-26-2024,Partner,
+OPP00346,C0173,V001,BI Consulting,13191.53,Closed Won,100,2023-01-04,2023-02-10,2023-01-19,Cold Outreach,Requires demo
+OPP00347,C0140,V001,,3486.41,Prospect,25,2023-03-12,,,Website,
+OPP00348,C0188,V001,Analytics Pro,5744.68,Lead,10,2024-11-19,2025-03-16,,Referral,
+OPP00349,C0019,V006,Custom Report,4270.97,Lead,10,2023-01-02,2023-03-29,,Event,
+OPP00350,C0019,V006,Dashboard Starter,2031.29,Lead,10x,2023-01-16,,,Event,Budget approved
+OPP00351,C0085,V004,BI Consulting,7097.65,LEAD,10,14/01/2024,,,,
+OPP00352,C0048,V006,,8644.06,Prospect,25,2024-01-12,2024-04-28,,Referral,Comparing vendors
+OPP00353,C0110,V008,BI Consulting,8716.47,Negotiation,75,2023-01-14,2023-05-01,,Cold Outreach,
+OPP00354,C0094,V006,Data Audit,,Closed Lost,0,2024-06-21,2024-07-11,15/07/2024,,
+OPP00355,C0127,V006,Dashboard Starter,2710.34,Closed-Won,100,2024-12-02,2025-02-24,2025/02/24,Event,
+OPP00356,C0009,V003,Custom Report,4687.46,Closed Won,100,2023-07-10,2023-10-07,2023/07/28,Referral,Comparing vendors
+OPP00357,C0199,V001,Analytics Pro,7847.2,Lead,10x,2024-12-24,2025-02-12,,Partner,
+OPP00358,C0117,V006,Dashboard Starter,2896.48,Prospect,25,2023/10/17,2024/02/14,,Partner,Requires demo
+OPP00359,C0159,V005,Data Audit,3526.27,Negotiation,75,2023-06-23,,,Partner,
+OPP00360,C0015,V003,Custom Report,6248.51,closed won,100,01-13-2023,2023-02-21,2023-03-09,Referral,
+OPP00361,C0050,V004,Custom Report,6265.57,Negotiation,75,2023-11-02,2024-01-08,,Event,Comparing vendors
+OPP00362,C0175,V008,Dashboard Starter,1984.07,Negotiation,75,2023-10-30,2023/11/21,,Referral,Budget approved
+OPP00363,C0068,V009,Data Audit,5033.9,Lead,10,28/09/2024,2024-12-19,,Referral,Budget approved
+OPP00364,C0064,V002,BI Consulting,8264.45,Negotiation,75,2023/04/01,07-21-2023,,Website,Requires demo
+OPP00365,C0020,V005,Custom Report,,Lead,10,2023-12-07,2024-03-15,,Referral,Urgent
+OPP00366,C0166,V005,Dashboard Starter,2227.99,Lead,10,2023-08-15,09-16-2023,,Partner,Board decision
+OPP00367,C0089,V007,Dashboard Starter,3378.24,Closed Won,100,2024-08-14,2024-11-06,2024-09-17,Referral,
+OPP00368,C0098,V009,BI Consulting,7783.64,Proposal,50,02-16-2023,29/05/2023,,Cold Outreach,Comparing vendors
+OPP00369,C0114,V007,Analytics Pro,7442.49,Prospect,25,2024-12-12,04-10-2025,,Event,Urgent
+OPP00370,C0146,V005,Custom Report,5720.49,Prospect,25,2024/12/09,2024-12-27,,LinkedIn,Comparing vendors
+OPP00371,C0118,V005,Custom Report,4393.84,Negotiation,75,2024-07-28,2024-10-17,,Referral,Budget approved
+OPP00372,C0054,V005,BI Consulting,9439.68,Prospect,25,2024-07-10,2024-10-21,,Website,Budget approved
+OPP00373,C0075,V001,BI Consulting,13411.72,Prospect,25,2023-02-05,2023/05/14,,Referral,
+OPP00374,C0137,V005,Custom Report,3832.15,Closed Won,100,2024-03-30,2024-05-22,2024-04-22,LinkedIn,
+OPP00375,C0195,V010,BI Consulting,12223.0,Prospect,25,2023/09/25,2023-11-17,,Cold Outreach,Urgent
+OPP00376,C0068,V009,Dashboard Starter,2139.6,Negotiation,75,2023/12/09,2024-04-01,,Referral,
+OPP00377,C0070,V005,Dashboard Starter,3330.92,Proposal,50,2024-03-23,2024-05-11,,Referral,Urgent
+OPP00378,C0043,V008,Dashboard Starter,3720.26,Proposal,50,29/03/2023,26/05/2023,,,
+OPP00379,C0196,V005,BI Consulting,8183.66,closed won,100,2023-04-17,2023-07-14,2023/06/23,Event,Budget approved
+OPP00380,C0170,V002,Analytics Pro,8673.66,Proposal,50,20/10/2023,2024-01-09,,Event,Comparing vendors
+OPP00381,C0051,V007,Data Audit,2917.97,Lead,10,06-26-2023,2023-10-16,,Website,Urgent
+OPP00382,C0083,V002,Custom Report,3801.07,Lead,,2023-04-22,2023-06-13,,Event,
+OPP00383,C0191,V003,Dashboard Starter,3025.25x,,50,2023-05-30,2023/09/21,,Referral,Board decision
+OPP00384,C0039,V003,Custom Report,4781.01,Lead,1,2023-08-30,12-02-2023,,Partner,
+OPP00385,C0176,V010,Dashboard Starter,,Prospect,25,27/02/2023,06-05-2023,,Partner,
+OPP00386,C0177,V005,Custom Report,3465.62,Prospect,25,12/12/2023,,,Referral,
+OPP00387,C0187,V003,BI Consulting,12751.28,,75,22/03/2023,11/05/2023,,Cold Outreach,
+OPP00388,C0163,V003,BI Consulting,12223.69,Prospect,,2023/04/12,2023-06-30,,Cold Outreach,
+OPP00389,C0025,V007,Dashboard Starter,3560.85,Negotiation,75,2024-02-02,2024-05-25,,Partner,
+OPP00390,C0119,V001,BI Consulting,11162.77,Prospect,25,11-25-2023,2024/03/16,,Referral,Board decision
+OPP00391,C0137,V005,Custom Report,,Proposal,50,2023/02/16,2023-05-05,,LinkedIn,Urgent
+OPP00392,C0081,V003,Custom Report,4658.35,Lead,10,2023-05-19,07-12-2023,,Partner,
+OPP00393,C0189,V007,Dashboard Starter,2486.01,Proposal,50,,2024-07-10,,Website,Board decision
+OPP00394,C0099,V008,Custom Report,3628.62,Lead,10,2024-12-28,2025-04-12,,Partner,Comparing vendors
+OPP00395,C0154,V005,BI Consulting,8502.31,,50,2024-03-05,13/05/2024,,Cold Outreach,
+OPP00396,C0101,V009,Data Audit,4054.46,Proposal,50,2024-10-16,2024-12-08,,Event,Urgent
+OPP00397,C0171,V001,Analytics Pro,8203.18,Negotiation,75,2024-03-11,2024-04-25,,Referral,Requires demo
+OPP00398,C0170,V002,Data Audit,5405.02,Negotiation,75,2023-05-11,2023/07/04,,Event,Budget approved
+OPP00399,C0140,V001,Analytics Pro,5306.34,Proposal,50,2024-06-26,2024-07-21,,Website,Comparing vendors
+OPP00400,C0155,V007,BI Consulting,6422.38,Closed Won,100,2023-04-29,,2023-05-19,Referral,Urgent
+OPP00401,C0169,V002,Analytics Pro,4727.46,Proposal,50,03/12/2023,2024-03-23,,Website,Board decision
+OPP00402,C0172,V007,Custom Report,5172.08,,10,2023/09/23,2023-12-06,,Partner,Budget approved
+OPP00403,C0019,V006,Custom Report,5946.66,Closed Won,100,03-14-2023,21/04/2023,2023-05-11,Event,
+OPP00404,C0017,V001,Custom Report,,Proposal,50,2024-05-21,2024-09-04,,,Board decision
+OPP00405,C0020,V005,Custom Report,5345.29,Prospect,25,2023-09-15,04/01/2024,,Referral,Comparing vendors
+OPP00406,C0106,V003,Dashboard Starter,3535.77,Prospect,25,2023-01-30,2023-03-16,,Referral,Budget approved
+OPP00407,C0083,V002,Dashboard Starter,3018.96,Closed Lost,0,2023-10-13,2024-02-06,20/11/2023,,
+OPP00408,C0143,V002,Custom Report,5050.39,Negotiation,75,2023-06-17,2023-10-10,,Referral,Comparing vendors
+OPP00409,C0007,V001,Analytics Pro,8739.87,Proposal,43,2023-03-20,2023-06-15,,Cold Outreach,Comparing vendors
+OPP00410,C0110,V008,Custom Report,3764.76,Proposal,50,2023-10-12,2023-11-25,,Cold Outreach,
+OPP00411,C0006,V003,Custom Report,3932.08,Proposal,50,2024-05-01,17/05/2024,,,
+OPP00412,C0184,V005,Analytics Pro,9639.24,Lead,10,2024-11-08,2025-03-07,,Cold Outreach,Comparing vendors
+OPP00413,C0147,V002,Dashboard Starter,2609.61,Proposal,50,2024-12-24,2025-02-22,,,
+OPP00414,C0047,V008,BI Consulting,9845.13,Prospect,25,2024-09-10,2024-10-21,,LinkedIn,
+OPP00415,C0013,V002,Dashboard Starter,3367.24,Proposal,50,2023-07-09,2023/10/02,,Referral,
+OPP00416,C0107,V005,Custom Report,4139.92,Lead,10,2023-07-20,2023-11-10,,Website,
+OPP00417,C0187,V003,BI Consulting,12689.57,CLOSED LOST,0,2023-05-05,2023-06-18,2023-06-24,Cold Outreach,Urgent
+OPP00418,C0183,V005,Analytics Pro,9130.43,Lead,10,2023-07-30,2023-08-20,,LinkedIn,Urgent
+OPP00419,C0056,V007,BI Consulting,9835.74,Proposal,50x,2024-01-21,2024-02-25,,Partner,Comparing vendors
+OPP00420,C0159,V005,Data Audit,,Lead,10,2023-05-02,2023/08/04,,Partner,
+OPP00421,C0034,V001,Data Audit,2700.4,Lead,10,2023-09-21,2023-11-15,,Website,Urgent
+OPP00422,C0080,V005,BI Consulting,7317.12,Prospect,25,2024-02-14,2024-04-06,,Cold Outreach,Budget approved
+OPP00423,C0162,V003,Dashboard Starter,3672.35,Closed Won,100,2023-06-22,10-15-2023,2023-07-22,Referral,
+OPP00424,C0128,V005,Analytics Pro,6243.44,Closed Lost,0,2024-12-16,2025-01-28,2025-02-06,Cold Outreach,
+OPP00425,C0028,V005,Analytics Pro,9396.36,Negotiation,75,2024-07-21,14/09/2024,,Event,Requires demo
+OPP00426,C0192,V003,BI Consulting,8306.64,Proposal,50,2024-02-05,2024-05-08,,Website,Budget approved
+OPP00427,C0113,V007,Data Audit,5120.22,Prospect,25,05-25-2023,2023-06-26,,Partner,
+OPP00428,C0149,V006,Analytics Pro,5971.96,Prospect,25,2024-12-11,19/01/2025,,Event,
+OPP00429,C0068,V009,BI Consulting,8618.54,Negotiation,75,28/03/2024,2024-04-23,,Referral,Urgent
+OPP00430,C0030,V003,Custom Report,5259.22,Prospect,25,2023-10-14,2023-11-15,,Partner,
+OPP00431,C0182,V001,Custom Report,3510.86,Proposal,50,03-15-2024,09/07/2024,,Event,
+OPP00432,C0045,V005,Custom Report,6071.26,Lead,10,2024-10-27,2024-11-19,,,Requires demo
+OPP00433,C0185,V004,Custom Report,6132.26,Prospect,25,2023-05-23,2023-09-10,,LinkedIn,Requires demo
+OPP00434,C0104,V002,Analytics Pro,9686.64,Prospect,25,2024-11-16,2025-02-23,,Website,
+OPP00435,C0154,V005,BI Consulting,11739.8,Lead,39,2023-05-08,2023-06-01,,Cold Outreach,
+OPP00436,C0165,V005,Analytics Pro,6130.29,Negotiation,75,2024-06-18,10/07/2024,,,
+OPP00437,C0120,V010,Custom Report,3740.98,Closed Won,100,2024-11-22,2025-01-10,2025/02/17,Partner,
+OPP00438,C0198,V008,Data Audit,3940.81,Prospect,25,2024-04-26,,,Partner,
+OPP00439,C0151,V004,Analytics Pro,5702.71,CLOSED WON,100,2023-05-21,2023-08-02,25/06/2023,Website,
+OPP00440,C0191,V003,BI Consulting,11548.64,Prospect,25,05/05/2023,2023-06-09,,Referral,Urgent
+OPP00441,C0012,V001,Data Audit,3723.76,Proposal,50,12/08/2023,15/10/2023,,Referral,
+OPP00442,C0104,V002,Data Audit,5058.96,Prospect,25,2023-10-08,,,Website,
+OPP00443,C0008,V007,BI Consulting,6807.92,Lead,10,2023-01-13,04-23-2023,,Cold Outreach,
+OPP00444,C0030,V003,,5880.72,Proposal,50,09-19-2024,2024-10-29,,Partner,
+OPP00445,C0170,V002,BI Consulting,9499.27x,Proposal,50,2023-03-31,06-27-2023,,Event,Board decision
+OPP00446,C0159,V005,Dashboard Starter,2957.82,Negotiation,75,2023-06-04,2023-08-26,,Partner,Requires demo
+OPP00447,C0168,V008,Dashboard Starter,1896.03,Negotiation,75,10-30-2024,2025-01-04,,LinkedIn,Budget approved
+OPP00448,C0135,V009,Custom Report,3415.72,Closed Lost,0,2024-01-17,2024-05-06,2024-04-08,LinkedIn,Board decision
+OPP00449,C0036,V005,Dashboard Starter,3534.14,Lead,10,2023-08-01,2023-11-29,,Event,Requires demo
+OPP00450,C0161,V006,,11088.08,Prospect,25,2023-04-23,2023/08/21,,Partner,
+OPP00451,C0160,V003,Data Audit,5242.22,Proposal,50,2024-02-01,05-25-2024,,LinkedIn,Requires demo
+OPP00452,C0015,V003,Data Audit,3436.22,Negotiation,75,2024-01-03,2024-04-05,,Referral,Urgent
+OPP00453,C0055,V006,Analytics Pro,8808.69,Prospect,25,2023-05-21,2023-08-13,,Referral,Board decision
+OPP00454,C0134,V010,Analytics Pro,8524.17,Prospect,25,2023-05-07,,,Referral,
+OPP00455,C0104,V002,Data Audit,3090.07,Prospect,25,05/07/2024,2024-08-04,,Website,Budget approved
+OPP00456,C0148,V007,BI Consulting,12559.34,Closed Lost,0,2024-11-19,2024-12-22,2024-12-04,Partner,Comparing vendors
+OPP00457,C0015,V003,,3954.37,Prospect,25,2024-09-11,2024-10-29,,,
+OPP00458,C0176,V010,BI Consulting,12140.5,Closed Won,100,,,2023-06-11,Partner,
+OPP00459,C0099,V008,Analytics Pro,7224.69,Prospect,25,2023-08-12,08/10/2023,,Partner,
+OPP00460,C0183,V005,Analytics Pro,5128.0,Closed Lost,0,21/02/2023,2023/05/19,21/05/2023,,Board decision
+OPP00461,C0197,V009,Custom Report,3799.77,Prospect,25,2024-06-02,09-09-2024,,Event,
+OPP00462,C0132,V010,Dashboard Starter,2979.89,Prospect,25,2024-01-09,2024-03-05,,Referral,
+OPP00463,C0122,V010,,4920.22,Prospect,8,2023-02-13,2023-03-03,,Event,
+OPP00464,C0055,V006,Data Audit,4121.55,Lead,10,2024-10-19,2025-01-08,,Referral,
+OPP00465,C0130,V005,Data Audit,5550.36,Prospect,25,2023-05-26,2023-07-13,,,
+OPP00466,C0178,V007,Dashboard Starter,1829.63,lead,10,11/04/2023,2023/06/03,,Partner,Budget approved
+OPP00467,C0154,V005,Data Audit,5664.2,Prospect,,2023-11-06,2024-01-31,,Cold Outreach,Urgent
+OPP00468,C0143,V002,BI Consulting,12038.16,Closed Lost,0,14/02/2024,2024-05-21,19/03/2024,Referral,Requires demo
+OPP00469,C0116,V003,Data Audit,4195.37,Negotiation,75,22/10/2023,2023-12-05,,LinkedIn,
+OPP00470,C0173,V001,Custom Report,5196.2,Lead,,01/04/2023,06-01-2023,,Cold Outreach,
+OPP00471,C0023,V003,Dashboard Starter,2514.43,Prospect,25,,2024-05-10,,Event,Budget approved
+OPP00472,C0050,V004,Dashboard Starter,1836.41,Negotiation,75,2023-06-15,2023-08-17,,Event,
+OPP00473,C0149,V006,Custom Report,3965.08,Closed Lost,0,06-29-2023,2023-08-14,2023-08-22,Event,
+OPP00474,C0088,V008,Custom Report,6074.39,Prospect,25,2023-06-18,2023/09/29,,Event,Comparing vendors
+OPP00475,C0042,V005,Custom Report,3453.06,Closed Won,100,2024-06-28,2024-10-25,2024-08-01,Event,Requires demo
+OPP00476,C0157,V003,Dashboard Starter,3680.17,Prospect,25,2023-11-18,2023-12-11,,Cold Outreach,
+OPP00477,C0024,V003,Analytics Pro,6497.24,Lead,10,2024-08-16,2024-12-13,,Partner,
+OPP00478,C0174,V006,Custom Report,4454.12,Prospect,25,2024-12-01,,,LinkedIn,Requires demo
+OPP00479,C0047,V008,Data Audit,3834.96,Closed Lost,0,2024-09-09,2024/11/10,2024-10-09,LinkedIn,Urgent
+OPP00480,C0030,V003,Data Audit,3718.79,Prospect,25,2023/02/18,2023-06-16,,Partner,
+OPP00481,C0127,V006,Data Audit,5207.13,Lead,10,04/01/2023,2023-03-15,,Event,
+OPP00482,C0178,V007,BI Consulting,10691.41,Closed-Won,100,07-12-2023,29/07/2023,2023-09-13,Partner,
+OPP00483,C0102,V008,Custom Report,5014.76,Negotiation,75,2024-07-10,,,Cold Outreach,Urgent
+OPP00484,C0015,V003,Analytics Pro,6589.03x,Proposal,,2023-04-05,2023-05-19,,Referral,
+OPP00485,C0161,V006,Analytics Pro,8543.06,Prospect,25,05-23-2024,2024-09-02,,Partner,Comparing vendors
+OPP00486,C0012,V001,BI Consulting,10168.77,Lead,10,2023-03-03,2023-04-15,,Referral,
+OPP00487,C0164,V006,Data Audit,3584.44,Prospect,25,02-07-2024,2024-05-30,,,
+OPP00488,C0003,V006,Data Audit,4509.55,Closed Won,100,07/02/2024,2024-03-16,2024-02-26,Cold Outreach,Budget approved
+OPP00489,C0003,V006,BI Consulting,10254.85,Lead,10,,2024-04-12,,Cold Outreach,Comparing vendors
+OPP00490,C0015,V003,Data Audit,3901.51,Proposal,50,25/07/2024,2024-10-03,,Referral,
+OPP00491,C0034,V001,Custom Report,4389.31x,Closed Won,100,06-25-2024,2024-09-08,2024-08-24,Website,Urgent
+OPP00492,C0158,V002,Data Audit,4746.12,Proposal,50,2023-07-12,2023-08-12,,Cold Outreach,
+OPP00493,C0181,V008,Analytics Pro,7604.59,Closed Won,100,,2023-06-17,2023-04-05,Cold Outreach,
+OPP00494,C0087,V005,BI Consulting,7722.56,Proposal,50,,2023-10-09,,,
+OPP00495,C0100,V008,Dashboard Starter,2316.86,Lead,10,2024/06/26,2024-10-20,,Partner,
+OPP00496,C0089,V007,Analytics Pro,7076.18,Prospect,25,2023-06-05,07-08-2023,,Referral,Budget approved
+OPP00497,C0088,V008,BI Consulting,12021.67,LEAD,32,04-23-2023,2023-08-05,,Event,
+OPP00498,C0092,V006,Data Audit,,Proposal,50,2023-01-28,04/04/2023,,LinkedIn,
+OPP00499,C0188,V001,BI Consulting,9109.61,Negotiation,75,2023-03-11,10/05/2023,,Referral,
+OPP00500,C0040,V007,Custom Report,4959.08,Negotiation,75,08-29-2024,11-23-2024,,Cold Outreach,Board decision

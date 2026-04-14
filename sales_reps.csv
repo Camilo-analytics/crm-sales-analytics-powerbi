@@ -1,0 +1,11 @@
+rep_id,full_name,region,annual_quota,hire_date,team_level
+V001,Lisa Garcia,North Adelaide,80000,23/02/2022,Mid
+V002,Amy Robinson,Southern Suburbs,100000,2021-03-11,Junior
+V003,Luis Martin,Adelaide CBD,,,MID
+V004,Tom Miller,Southern Suburbs,80000,18/03/2021,JUNIOR
+V005,Jessica Martin,,80000,2022-05-08,Mid
+V006,Andrew Taylor,North Adelaide,90000,2020-04-23,Mid
+V007,Luis Harris,Adelaide CBD,120000,2020-11-04,Senior
+V008,Jessica Jackson,North Adelaide,120000,10-19-2022,SENIOR
+V009,Michael Martin,,80000,02-11-2022,MID
+V010,Kate Williams,North Adelaide,100000,2022-03-27,Mid

@@ -1,0 +1,201 @@
+customer_id,company_name,industry,region,company_size,contact_name,email,lead_source,registration_date,rep_id
+C0001,Davis Co,Construction,Adelaide CBD,N/A,Lucia Wilson,contact1@example.com,Website,2023-11-25,V004
+C0002,Moore Co,Healthcare,Southern Suburbs,51-200,Luis White,contact2@example.com,Website,,V005
+C0003,Wilson Partners,Healthcare,North Adelaide,11-50,Maria Thomas,,Cold Outreach,2023/01/02,V006
+C0004,Jackson Co,Legal,Southern Suburbs,201-500,Lisa Moore,contact4@example.com,Referral,2023-11-11,V003
+C0005,Miller Solutions,Legal,Eastern Suburbs,51-200,Paul Taylor,contact5@example.com,LinkedIn,2024-12-12,V001
+C0006,Garcia Co,Real Estate,Eastern Suburbs,11-50,Kate Davis,contact6@example.com,,2023-12-04,V003
+C0007,Jackson Services,Finance,Southern Suburbs,51-200,Sarah Taylor,contact7@example.com,Cold Outreach,2023-06-12,V001
+C0008,Wilson Partners,Legal,Southern Suburbs,11-50,Jessica Anderson,contact8@example.com,Cold Outreach,2024-11-25,V007
+C0009,Garcia Services,Real Estate,North Adelaide,1-10,Lisa Garcia,contact9@example.com,Referral,2024-10-02,V003
+C0010,Davis Pty Ltd,Hospitality,Southern Suburbs,1-10,Diego Garcia,contact10@example.com,LinkedIn,2024-01-18,V002
+C0011,Smith Services,Healthcare,Western Suburbs,51-200,Carmen Williams,contact11@example.com,LinkedIn,2023-11-21,V010
+C0012,Smith Services,Healthcare,Eastern Suburbs,51-200,Laura Garcia,contact12@example.com,Referral,10-25-2024,V001
+C0013,Garcia Partners,Healthcare,Western Suburbs,1-10,David Smith,contact13@example.com,Referral,2024-04-01,V002
+C0014,Anderson Pty Ltd,Hospitality,Southern Suburbs,201-500,Emma Jackson,contact14@example.com,LinkedIn,2023-09-12,V006
+C0015,Jackson Co,Construction,Adelaide CBD,1-10,Ben Taylor,contact15@example.com,Referral,2023-01-31,V003
+C0016,Wilson Partners,Healthcare,Southern Suburbs,1-10,Claire Brown,contact16@example.com,Event,2023-11-09,V006
+C0017,Robinson Solutions,Healthcare,,1-10,Mateo Thomas,contact17@example.com,LinkedIn,,V001
+C0018,Smith Co,Hospitality,Eastern Suburbs,51-200,Ana Anderson,contact18@example.com,Cold Outreach,2024-07-26,V004
+C0019,Johnson Group,Hospitality,Southern Suburbs,51-200,Lisa Robinson,contact19@example.com,Event,,V006
+C0020,Harris Partners,Legal,Western Suburbs,201-500,Luis Thompson,contact20@example.com,Referral,2024-02-12,V005
+C0021,Smith Solutions,Hospitality,North Adelaide,201-500,Mateo Martinez,contact21@example.com,Referral,2023-11-25,V005
+C0022,Moore Group,Healthcare,Adelaide CBD,51-200,Amy Thomas,contact14@example.com,Referral,06-23-2024,V002
+C0023,Wilson Co,Hospitality,Western Suburbs,1-10,Elena Martin,contact23@example.com,Event,2023-09-17,V003
+C0024,Robinson Services,Construction,Adelaide CBD,11-50,David Martinez,,Partner,2024-02-14,V003
+C0025,Williams Group,Construction,Adelaide CBD,201-500,Sophie Garcia,contact25@example.com,Partner,2023-04-02,V007
+C0026,Wilson Co,Education,Western Suburbs,51-200,Luis Taylor,contact26@example.com,Cold Outreach,26/08/2023,V004
+C0027,Thompson Group,Finance,Southern Suburbs,,Ben Anderson,contact27@example.com,,2024-06-30,V009
+C0028,Thompson Services,,Western Suburbs,11-50,Sarah Garcia,contact28@example.com,Event,2024-07-11,V005
+C0029,Jones Solutions,Finance,Adelaide CBD,11-50,Mark Martinez,contact29@example.com,Referral,2023-10-24,V007
+C0030,Thompson Pty Ltd,Retail,North Adelaide,11-50,David Wilson,contact30@example.com,Partner,,V003
+C0031,Davis Pty Ltd,Legal,North Adelaide,1-10,Lucia Anderson,contact31@example.com,LinkedIn,2023-12-30,V008
+C0032,White Group,Retail,Eastern Suburbs,11-50,Daniel Johnson,contact32@example.com,LinkedIn,2024-03-17,V001
+C0033,Moore Solutions,Retail,North Adelaide,1-10,Jorge Harris,contact33@example.com,Website,2024-12-15,V009
+C0034,Jackson Partners,Construction,Southern Suburbs,51-200,Andrew Jackson,contact34@example.com,Website,2023-11-07,V001
+C0035,Garcia Pty Ltd,Retail,Western Suburbs,11-50,Andrew Garcia,contact35@example.com,Website,2023-01-07,V001
+C0036,Taylor Pty Ltd,Healthcare,,201-500,Maria Martinez,contact36@example.com,Event,2023-05-01,V005
+C0037,Williams Solutions,Construction,North Adelaide,51-200,Laura Jackson,contact37@example.com,LinkedIn,2023-07-08,V006
+C0038,Garcia Partners,Retail,Eastern Suburbs,51-200,Mark Wilson,contact38@example.com,LinkedIn,2023-05-27,V008
+C0039,Martin Co,Education,Western Suburbs,201-500,Jorge Brown,contact39@example.com,Partner,2023-05-05,V003
+C0040,Jones Solutions,Construction,Southern Suburbs,51-200,Jorge Smith,contact40@example.com,Cold Outreach,18/05/2023,V007
+C0041,Miller Group,Retail,North Adelaide,1-10,Jessica White,contact4@example.com,Website,2023-12-22,V005
+C0042,Miller Co,Retail,Western Suburbs,1-10,Mark Garcia,contact30@example.com,Event,2023-11-05,V005
+C0043,Taylor Solutions,Hospitality,Adelaide CBD,51-200,Lucia Anderson,contact2@example.com,,2024-01-17,V008
+C0044,Moore Pty Ltd,Construction,Eastern Suburbs,51-200,Daniel Brown,contact44@example.com,Website,2023-09-09,V005
+C0045,Taylor Services,Retail,Western Suburbs,201-500,Jessica Martinez,contact45@example.com,,2023-03-05,V005
+C0046,Davis Services,Legal,Adelaide CBD,N/A,Emma Robinson,contact46@example.com,Cold Outreach,2024-10-14,V006
+C0047,Miller Co,Construction,Eastern Suburbs,11-50,Mateo Miller,contact47@example.com,LinkedIn,16/10/2023,V008
+C0048,Johnson Group,Healthcare,,11-50,James Davis,contact48@example.com,Referral,2023/01/20,V006
+C0049,Jackson Group,Retail,Southern Suburbs,11-50,Claire Garcia,contact49@example.com,Partner,,V006
+C0050,Davis Pty Ltd,Finance,Western Suburbs,1-10,Daniel Brown,,Event,2023-07-07,V004
+C0051,Martin Pty Ltd,,Southern Suburbs,51-200,Lisa Wilson,contact51@example.com,Website,14/05/2023,V007
+C0052,Jones Solutions,Hospitality,Adelaide CBD,201-500,Elena Martin,contact52@example.com,Cold Outreach,2024-11-06,V008
+C0053,Williams Pty Ltd,Retail,Southern Suburbs,51-200,David Harris,contact53@example.com,Event,2023-12-18,V007
+C0054,Martinez Group,Education,Western Suburbs,1-10,Jessica Miller,contact54@example.com,Website,2024-06-18,V005
+C0055,Thompson Solutions,Legal,Southern Suburbs,11-50,Kate Anderson,contact26@example.com,Referral,2023-04-16,V006
+C0056,Smith Pty Ltd,Education,Southern Suburbs,201-500,Laura Anderson,contact56@example.com,Partner,20/10/2024,V007
+C0057,Johnson Services,Education,Eastern Suburbs,11-50,Ana Johnson,contact57@example.com,Cold Outreach,2024-01-26,V004
+C0058,Williams Solutions,Hospitality,Eastern Suburbs,201-500,Lucia Williams,contact58@example.com,LinkedIn,2024-04-29,V010
+C0059,Jones Partners,Education,Eastern Suburbs,51-200,Claire Thomas,contact59@example.com,Cold Outreach,2023-08-07,V006
+C0060,Williams Co,Construction,Eastern Suburbs,201-500,Michael Davis,contact60@example.com,Event,2024-10-26,V001
+C0061,Thompson Co,Real Estate,,201-500,Mark Miller,contact61@example.com,Referral,2023-10-30,V006
+C0062,Williams Pty Ltd,Retail,Southern Suburbs,11-50,Tom Moore,contact62@example.com,,2023-07-10,V007
+C0063,Martinez Pty Ltd,Education,,11-50,Michael Harris,contact63@example.com,LinkedIn,2024-05-01,V007
+C0064,Thomas Group,Healthcare,Western Suburbs,11-50,Carlos Jones,,Website,2023-07-23,V002
+C0065,Anderson Group,Retail,North Adelaide,,Luis Jones,contact65@example.com,Referral,03-21-2024,V005
+C0066,Anderson Pty Ltd,Hospitality,Southern Suburbs,51-200,Carmen Johnson,contact66@example.com,,12-05-2024,V007
+C0067,Brown Pty Ltd,Legal,Eastern Suburbs,11-50,Emma White,contact67@example.com,Partner,2024-01-05,V003
+C0068,Garcia Services,Education,Southern Suburbs,201-500,Jorge Harris,contact68@example.com,Referral,2023-06-15,V009
+C0069,White Group,Real Estate,Southern Suburbs,201-500,Paul Brown,,,2024-02-08,V004
+C0070,Taylor Pty Ltd,Hospitality,North Adelaide,11-50,Jessica Miller,contact70@example.com,Referral,2023/01/04,V005
+C0071,Jackson Group,Construction,Southern Suburbs,51-200,Mateo Brown,contact71@example.com,,2023-03-26,V008
+C0072,Robinson Partners,Hospitality,Western Suburbs,201-500,David Wilson,contact72@example.com,Event,2024-04-12,V001
+C0073,Anderson Group,Healthcare,Southern Suburbs,11-50,Chris White,contact73@example.com,Website,2024-01-02,V008
+C0074,White Solutions,Construction,Eastern Suburbs,51-200,Paul Davis,contact74@example.com,Cold Outreach,2024-07-10,V002
+C0075,Martinez Services,Construction,Western Suburbs,51-200,Diego Thomas,contact75@example.com,Referral,2023-07-28,V001
+C0076,Jones Services,Finance,Adelaide CBD,11-50,Michael Miller,contact76@example.com,Partner,2024-10-02,V001
+C0077,Taylor Pty Ltd,,Southern Suburbs,1-10,David Garcia,contact77@example.com,Event,2023-03-09,V005
+C0078,Wilson Solutions,Education,Southern Suburbs,201-500,Elena Moore,contact78@example.com,Event,,V007
+C0079,Robinson Services,Legal,Adelaide CBD,unknown,Carmen Brown,contact9@example.com,LinkedIn,2024-11-17,V005
+C0080,Thomas Pty Ltd,Retail,North Adelaide,1-10,Claire Martin,contact10@example.com,Cold Outreach,2023-09-19,V005
+C0081,White Solutions,Healthcare,Eastern Suburbs,1-10,Michael White,contact81@example.com,Partner,,V003
+C0082,Robinson Pty Ltd,Retail,Southern Suburbs,201-500,Ben Smith,contact82@example.com,LinkedIn,2023-10-20,V005
+C0083,Thompson Group,Construction,Eastern Suburbs,201-500,James Jones,contact83@example.com,Event,,V002
+C0084,Thomas Group,Real Estate,Western Suburbs,11-50,Ben Brown,contact84@example.com,Event,22/04/2023,V009
+C0085,Smith Pty Ltd,Real Estate,Western Suburbs,201-500,Emma Garcia,,,2023-07-31,V004
+C0086,Harris Services,Construction,Eastern Suburbs,11-50,Diego Davis,contact86@example.com,LinkedIn,2024-12-06,V004
+C0087,Thompson Partners,Retail,North Adelaide,11-50,Michael White,contact87@example.com,Cold Outreach,23/04/2023,V005
+C0088,Martinez Services,Construction,Adelaide CBD,1-10,Mark Smith,contact88@example.com,Event,2024-12-02,V008
+C0089,Jones Solutions,Hospitality,Southern Suburbs,51-200,Lisa Anderson,contact89@example.com,Referral,2023-06-07,V007
+C0090,Martinez Group,Education,Western Suburbs,201-500,Emma Miller,contact90@example.com,Event,2024-08-11,V001
+C0091,Jackson Co,Retail,Eastern Suburbs,N/A,Sophie Anderson,contact54@example.com,Event,2023-07-23,V006
+C0092,Anderson Co,Finance,Adelaide CBD,201-500,Ana Martinez,contact92@example.com,LinkedIn,2023-11-16,V006
+C0093,Robinson Services,Legal,Eastern Suburbs,11-50,Sophie Miller,contact93@example.com,Referral,2024-12-16,V001
+C0094,Smith Pty Ltd,Education,Western Suburbs,1-10,Sarah Brown,contact94@example.com,Website,06-22-2023,V006
+C0095,Miller Pty Ltd,Retail,Southern Suburbs,1-10,Diego Johnson,contact95@example.com,Referral,02/07/2024,V005
+C0096,Brown Co,Education,North Adelaide,51-200,Kate Smith,contact96@example.com,LinkedIn,2024-12-20,V001
+C0097,Martinez Services,Hospitality,North Adelaide,1-10,Luis Miller,contact97@example.com,Cold Outreach,04-03-2023,V010
+C0098,Garcia Group,,North Adelaide,51-200,Laura Thompson,contact98@example.com,Cold Outreach,10-22-2024,V009
+C0099,Jackson Co,Legal,Western Suburbs,51-200,Laura Wilson,contact99@example.com,Partner,05-16-2024,V008
+C0100,Harris Pty Ltd,Construction,Western Suburbs,201-500,Lucia Wilson,contact17@example.com,Partner,2023-05-21,V008
+C0101,White Solutions,Healthcare,Southern Suburbs,201-500,Sarah Jackson,contact101@example.com,Event,2024-07-19,V009
+C0102,Taylor Services,Healthcare,,11-50,Daniel Jones,contact102@example.com,Cold Outreach,2023-12-22,V008
+C0103,Jackson Co,Hospitality,,11-50,Sarah Wilson,contact103@example.com,Referral,2024-06-23,V010
+C0104,Thomas Co,Hospitality,North Adelaide,11-50,Michael Jones,contact104@example.com,Website,2023-10-17,V002
+C0105,Miller Solutions,Real Estate,Southern Suburbs,201-500,Tom Robinson,contact105@example.com,Website,30/04/2024,V010
+C0106,Johnson Services,Finance,Eastern Suburbs,201-500,Carlos Garcia,contact106@example.com,Referral,04-15-2024,V003
+C0107,Williams Group,Education,Southern Suburbs,1-10,Carlos Moore,contact107@example.com,Website,2024-07-25,V005
+C0108,Martinez Co,Legal,Adelaide CBD,11-50,Kate Brown,contact108@example.com,LinkedIn,2024-06-20,V003
+C0109,Thompson Group,,Adelaide CBD,201-500,Paul Miller,contact109@example.com,Cold Outreach,2023-03-11,V004
+C0110,Moore Services,Education,Western Suburbs,51-200,Sophie Johnson,contact110@example.com,Cold Outreach,2024/02/21,V008
+C0111,Thompson Partners,Retail,Adelaide CBD,11-50,Amy Thompson,contact111@example.com,Cold Outreach,2024-01-02,V008
+C0112,Williams Pty Ltd,Finance,Western Suburbs,11-50,Elena Moore,contact112@example.com,Cold Outreach,26/07/2023,V003
+C0113,Garcia Solutions,Healthcare,Southern Suburbs,1-10,Luis Brown,contact113@example.com,Partner,09/04/2023,V007
+C0114,Brown Pty Ltd,Construction,Western Suburbs,51-200,Diego Moore,contact114@example.com,Event,30/09/2024,V007
+C0115,Jackson Solutions,,Western Suburbs,1-10,Mateo Johnson,contact115@example.com,Partner,2023-04-05,V009
+C0116,Williams Solutions,Retail,,1-10,Sarah Robinson,contact116@example.com,LinkedIn,2023-01-22,V003
+C0117,Jackson Group,Education,North Adelaide,unknown,Paul Garcia,contact117@example.com,Partner,2024-12-03,V006
+C0118,Wilson Pty Ltd,Hospitality,North Adelaide,51-200,Daniel Moore,contact118@example.com,Referral,11/12/2024,V005
+C0119,Wilson Partners,Healthcare,Southern Suburbs,1-10,Sophie Robinson,contact119@example.com,Referral,2024-06-19,V001
+C0120,Moore Solutions,Construction,North Adelaide,201-500,Elena Wilson,contact120@example.com,Partner,2024-03-03,V010
+C0121,Martinez Group,Education,Western Suburbs,1-10,Daniel Johnson,contact121@example.com,Event,2023-08-19,V003
+C0122,Smith Solutions,Construction,North Adelaide,11-50,Mateo Williams,contact122@example.com,Event,2023-01-15,V010
+C0123,Jackson Solutions,Legal,Western Suburbs,1-10,James Anderson,contact123@example.com,Cold Outreach,19/11/2023,V009
+C0124,Jones Partners,Construction,Southern Suburbs,,Elena Thompson,contact124@example.com,Referral,2023/03/05,V005
+C0125,Jackson Solutions,,Eastern Suburbs,51-200,Jorge Williams,contact125@example.com,Website,05/06/2023,V003
+C0126,Wilson Pty Ltd,Construction,Eastern Suburbs,51-200,Daniel Martinez,contact126@example.com,Website,09-13-2024,V009
+C0127,White Co,Construction,Southern Suburbs,1-10,Luis Davis,contact127@example.com,Event,2024-06-13,V006
+C0128,Miller Services,Finance,Southern Suburbs,11-50,Claire Davis,contact128@example.com,Cold Outreach,,V005
+C0129,Garcia Solutions,Finance,Eastern Suburbs,201-500,Ana Thomas,contact129@example.com,Website,2023-10-26,V008
+C0130,Davis Solutions,Construction,Eastern Suburbs,51-200,Andrew White,contact130@example.com,LinkedIn,2024-05-16,V005
+C0131,Robinson Group,Hospitality,Southern Suburbs,201-500,Maria Moore,contact131@example.com,Cold Outreach,2023-01-13,V001
+C0132,Jackson Group,Education,Western Suburbs,11-50,Tom Williams,contact132@example.com,Referral,2024/03/14,V010
+C0133,Brown Partners,Legal,Southern Suburbs,201-500,Jessica Jackson,contact133@example.com,Event,2024-05-23,V003
+C0134,Davis Services,Education,Adelaide CBD,1-10,Sarah Miller,contact134@example.com,Referral,2023-06-28,V010
+C0135,Miller Group,Legal,Adelaide CBD,201-500,Mark Robinson,contact135@example.com,LinkedIn,2023-05-05,V009
+C0136,Martin Services,Healthcare,Southern Suburbs,51-200,Carlos Wilson,,Cold Outreach,2023/06/10,V009
+C0137,Wilson Partners,Hospitality,North Adelaide,,Diego Smith,contact2@example.com,LinkedIn,09/12/2024,V005
+C0138,Williams Services,Construction,Adelaide CBD,51-200,Luis Martin,contact27@example.com,LinkedIn,2024-12-05,V010
+C0139,Martinez Partners,Healthcare,Southern Suburbs,11-50,Kate Miller,contact139@example.com,Referral,2024-08-14,V007
+C0140,Garcia Solutions,Finance,Eastern Suburbs,11-50,Paul Smith,contact140@example.com,Website,13/11/2024,V001
+C0141,White Solutions,Healthcare,,51-200,Paul Jones,contact141@example.com,Partner,,V008
+C0142,White Services,Finance,North Adelaide,11-50,Ana Wilson,contact142@example.com,LinkedIn,2024-10-05,V004
+C0143,Johnson Services,Finance,Western Suburbs,201-500,Luis Thompson,contact143@example.com,Referral,,V002
+C0144,White Services,Real Estate,Western Suburbs,201-500,Carmen Johnson,contact144@example.com,,2023-05-19,V004
+C0145,Johnson Group,Construction,North Adelaide,51-200,Chris Jones,contact145@example.com,Website,2023-04-15,V001
+C0146,Jackson Partners,Hospitality,Adelaide CBD,1-10,James Moore,contact146@example.com,LinkedIn,2023-11-11,V005
+C0147,Wilson Services,Construction,Southern Suburbs,1-10,Lisa Smith,contact147@example.com,,2023-02-10,V002
+C0148,Thompson Co,Legal,Eastern Suburbs,51-200,Carmen Robinson,contact148@example.com,Partner,12/11/2024,V007
+C0149,Wilson Co,Hospitality,Southern Suburbs,1-10,Lisa Johnson,contact149@example.com,Event,27/02/2024,V006
+C0150,Miller Co,Legal,Southern Suburbs,11-50,Carlos Robinson,contact150@example.com,Referral,2023-08-28,V004
+C0151,Taylor Partners,Healthcare,Western Suburbs,1-10,Tom Wilson,contact151@example.com,Website,2023/08/06,V004
+C0152,Johnson Services,Real Estate,Southern Suburbs,1-10,Sophie Wilson,contact152@example.com,Referral,2023-08-09,V002
+C0153,Davis Services,Education,Southern Suburbs,51-200,Claire Martinez,contact153@example.com,Event,2024-10-02,V005
+C0154,Johnson Co,Real Estate,Southern Suburbs,51-200,Sophie Garcia,contact154@example.com,Cold Outreach,2024-04-25,V005
+C0155,Anderson Solutions,Healthcare,Eastern Suburbs,1-10,Jessica Smith,contact155@example.com,Referral,2024-12-04,V007
+C0156,Miller Partners,Education,Eastern Suburbs,201-500,Luis Smith,contact156@example.com,Event,2024-06-26,V006
+C0157,Smith Services,Construction,North Adelaide,201-500,Jorge Jackson,contact157@example.com,Cold Outreach,01-04-2023,V003
+C0158,Wilson Group,Legal,North Adelaide,11-50,Ana Smith,contact158@example.com,Cold Outreach,06/12/2023,V002
+C0159,Martinez Group,Hospitality,Southern Suburbs,1-10,Sarah Miller,contact159@example.com,Partner,2024-09-12,V005
+C0160,Martin Services,Retail,Western Suburbs,51-200,Andrew Davis,contact160@example.com,LinkedIn,2023-08-01,V003
+C0161,Harris Partners,Construction,Western Suburbs,51-200,Lisa Anderson,contact161@example.com,Partner,2024-04-18,V006
+C0162,Garcia Solutions,Real Estate,North Adelaide,11-50,Chris Moore,contact162@example.com,Referral,2024-05-10,V003
+C0163,Harris Partners,Real Estate,Southern Suburbs,1-10,Chris Davis,contact163@example.com,Cold Outreach,2024-10-04,V003
+C0164,Thompson Partners,Healthcare,,51-200,Maria Jackson,contact164@example.com,,2023-11-24,V006
+C0165,Moore Co,Hospitality,Western Suburbs,201-500,Daniel Williams,contact165@example.com,,2024-09-17,V005
+C0166,Williams Co,Retail,Adelaide CBD,11-50,Michael Miller,contact166@example.com,Partner,11-16-2024,V005
+C0167,Taylor Co,Construction,,51-200,Daniel Garcia,contact167@example.com,Website,2024-06-22,V006
+C0168,Moore Group,Real Estate,Western Suburbs,201-500,Carmen Johnson,contact168@example.com,LinkedIn,2024-02-16,V008
+C0169,Anderson Co,,Adelaide CBD,1-10,Elena Harris,contact169@example.com,Website,2023-08-06,V002
+C0170,Brown Solutions,Legal,Southern Suburbs,11-50,Maria Thomas,contact170@example.com,Event,2023-09-04,V002
+C0171,Thomas Partners,Legal,Western Suburbs,11-50,Paul Garcia,contact171@example.com,Referral,2023-07-02,V001
+C0172,Davis Co,Finance,Eastern Suburbs,,David Jones,contact172@example.com,Partner,2024-01-22,V007
+C0173,Miller Pty Ltd,Healthcare,North Adelaide,11-50,Laura White,contact173@example.com,Cold Outreach,25/10/2023,V001
+C0174,Anderson Group,Legal,North Adelaide,11-50,Maria Moore,contact174@example.com,LinkedIn,2024-12-04,V006
+C0175,Davis Partners,,North Adelaide,11-50,Amy Johnson,contact175@example.com,Referral,2023-10-20,V008
+C0176,Brown Pty Ltd,Healthcare,Western Suburbs,201-500,Laura Robinson,contact176@example.com,Partner,05-22-2024,V010
+C0177,Robinson Group,Real Estate,Southern Suburbs,51-200,Sophie Anderson,contact177@example.com,Referral,2024/03/01,V005
+C0178,Smith Co,Construction,Western Suburbs,11-50,Ana Davis,contact178@example.com,Partner,08/08/2023,V007
+C0179,Taylor Co,Finance,Western Suburbs,11-50,Maria Martin,contact173@example.com,Partner,2024-08-27,V006
+C0180,Moore Pty Ltd,Legal,Eastern Suburbs,201-500,Maria Taylor,contact180@example.com,Partner,2024/01/25,V008
+C0181,Thomas Services,Legal,Adelaide CBD,11-50,Chris Williams,contact181@example.com,Cold Outreach,2023-04-03,V008
+C0182,Thomas Partners,Hospitality,Southern Suburbs,11-50,Lucia Williams,contact182@example.com,Event,2023-01-28,V001
+C0183,Harris Partners,Hospitality,North Adelaide,201-500,Ana White,contact183@example.com,LinkedIn,07-06-2023,V005
+C0184,Garcia Solutions,Real Estate,Southern Suburbs,201-500,Laura Anderson,contact184@example.com,Cold Outreach,2024/11/01,V005
+C0185,Jackson Services,Hospitality,Southern Suburbs,,Daniel Davis,contact185@example.com,LinkedIn,2024-09-19,V004
+C0186,Taylor Services,Construction,Southern Suburbs,11-50,Michael Thomas,contact186@example.com,LinkedIn,2024-12-28,V003
+C0187,Taylor Group,Hospitality,Western Suburbs,201-500,Rachel Garcia,contact187@example.com,Cold Outreach,2023-05-23,V003
+C0188,Martinez Partners,Legal,,11-50,Laura Wilson,contact188@example.com,Referral,28/07/2024,V001
+C0189,Smith Partners,Real Estate,Western Suburbs,201-500,Daniel Jones,contact189@example.com,Website,,V007
+C0190,Garcia Solutions,Healthcare,Adelaide CBD,51-200,Kate Taylor,contact190@example.com,Referral,,V004
+C0191,Anderson Services,Hospitality,Western Suburbs,,Jessica Thomas,contact191@example.com,Referral,2023-05-12,V003
+C0192,Miller Pty Ltd,Finance,Adelaide CBD,51-200,Kate Martin,contact192@example.com,Website,2023-08-11,V003
+C0193,Jackson Pty Ltd,Retail,Eastern Suburbs,51-200,Luis Johnson,contact193@example.com,Website,2024-05-15,V009
+C0194,Davis Pty Ltd,Education,Southern Suburbs,11-50,Maria Martinez,,Partner,2024-07-19,V003
+C0195,Jones Pty Ltd,Healthcare,Southern Suburbs,11-50,Chris Thompson,contact195@example.com,Cold Outreach,08/11/2023,V010
+C0196,Robinson Partners,Finance,Adelaide CBD,201-500,Paul Thompson,contact196@example.com,Event,2023/03/30,V005
+C0197,Williams Group,Healthcare,Western Suburbs,201-500,Amy Garcia,contact197@example.com,Event,2024/06/06,V009
+C0198,Robinson Partners,Finance,North Adelaide,11-50,Ben Thomas,contact198@example.com,Partner,19/09/2023,V008
+C0199,Taylor Pty Ltd,Construction,Western Suburbs,51-200,Carmen Brown,contact199@example.com,Partner,2023-11-30,V001
+C0200,Anderson Partners,Legal,Adelaide CBD,11-50,Carmen Taylor,contact200@example.com,Event,2024-07-06,V002
